@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+header { 
+    background-color: lightblue;
+    padding: 10px;
+}
+header a {
+    background-color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+main h1 {
+ background-color: lightblue;
+    text-align: center; 
+    border-radius: 20px;
+}
+
+footer p {
+    border: 2px solid grey;
+    font-family: sans-serif;
+}
+
+nav {
+    padding: 10px;
+    border: 2px;
+}
+
+nav a {
+    text-decoration: none;
+    color: grey;
+    margin: 60px;
+}
+
+.amina {
+    background-color: rgba(196, 255, 120, 0.671);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: blue;
+}
